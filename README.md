@@ -6,4 +6,4 @@ If you've come across this repository on your own, feel free to take a look at t
 
 
 ## Instructions for Candidates:
-`images_part_1.zip` and `images_part_2.zip` combined contain the data necessary to complete the Vision Challenge.  Please do not include this data with your submission.
+`vc_images1.zip` and `vc_images2.zip` combined contain the data necessary to complete the Vision Challenge.  Please do not include this data with your submission.
